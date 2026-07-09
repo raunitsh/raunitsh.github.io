@@ -1,1 +1,17 @@
-hi
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "AYY22NZ35L.com.raunits.universal-links-macos"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "comment": "Matches any URL on the domain"
+          }
+        ]
+      }
+    ]
+  }
+}
