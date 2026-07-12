@@ -3,7 +3,8 @@
     "details": [
       {
         "appIDs": [
-          "E5R2JZ6U5K.com.raunits.universal-links-macos"
+          "E5R2JZ6U5K.com.raunits.universal-links-macos",
+          "E5R2JZ6U5K.com.raunits.universal-link-ios"
         ],
         "components": [
           {
